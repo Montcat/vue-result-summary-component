@@ -30,8 +30,8 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [https://github.com/Montcat/results-summary-component]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Montcat/vue-results-summary-component]
+- Live Site URL: [https://montcat.github.io/vue-result-summary-component/]
 
 ## My process
 
@@ -84,7 +84,6 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@Montcat](https://www.frontendmentor.io/profile/Montcat)
 
 ## Acknowledgments
